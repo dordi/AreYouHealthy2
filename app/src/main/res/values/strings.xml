@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AreYouHealthy2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="act_name">EnregistrementEtat</string>
+    <string name="act_name2">TestPoulse</string>
+    <string name="backache">BACK-ACHE</string>
+    <string name="headache">HEAD-ACHE</string>
+    <string name="chestache">CHEST-ACHE</string>
+    <string name="Constipation">Constipation</string>
+    <string name="Diahrea">Diahrea</string>
+    <string name="act_name3">Respiration</string>
+    <string name="act_name4">Treatment</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
